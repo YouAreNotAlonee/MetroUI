@@ -10,3 +10,15 @@ c:\users\한만혁\documents\visual studio 2015\Projects\MetroUI\MetroUI\obj\Deb
 c:\users\한만혁\documents\visual studio 2015\Projects\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
 c:\users\한만혁\documents\visual studio 2015\Projects\MetroUI\MetroUI\obj\Debug\MetroUI.exe
 c:\users\한만혁\documents\visual studio 2015\Projects\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\Users\Administrator\Desktop\CNS\MetroUI\bin\Debug\MetroUI.exe.config
+C:\Users\Administrator\Desktop\CNS\MetroUI\bin\Debug\MetroUI.exe
+C:\Users\Administrator\Desktop\CNS\MetroUI\bin\Debug\MetroUI.pdb
+C:\Users\Administrator\Desktop\CNS\MetroUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\CNS\MetroUI\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\CNS\MetroUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\CNS\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CNS\MetroUI\obj\Debug\MetroUI.Form1.resources
+C:\Users\Administrator\Desktop\CNS\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CNS\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CNS\MetroUI\obj\Debug\MetroUI.exe
+C:\Users\Administrator\Desktop\CNS\MetroUI\obj\Debug\MetroUI.pdb
